@@ -1,9 +1,7 @@
 ## Hi there 👋
 [![YoonJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon0722&show_icon=true&theme=default&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=emwjd997)](https://solved.ac/emwjd997)
+
 <!--
 **yoon0722/yoon0722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
