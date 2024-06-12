@@ -1,5 +1,7 @@
 ## Hi there 👋
 [![YoonJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon0722&show_icon=true&theme=default&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon0722)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **yoon0722/yoon0722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
