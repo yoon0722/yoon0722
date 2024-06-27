@@ -1,5 +1,4 @@
 ## YoonJ's Github😉
-### Hello~~!
 
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoon0722&count_bg=%230F6FAE&title_bg=%2376BDE3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
